@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/BlogPostApp/static/js/main.704e152e.chunk.js"
   },
   {
-    "revision": "9319bbd4c5e5bfe53383",
-    "url": "/BlogPostApp/static/js/runtime~main.f21260dc.js"
+    "revision": "70a890034a8269d5c999",
+    "url": "/BlogPostApp/static/js/runtime~main.2c874e68.js"
   },
   {
     "revision": "bb47d32bf7ba1365fb34",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/BlogPostApp/static/js/8.c22cac6a.chunk.js"
   },
   {
-    "revision": "f8188542a7cd317f03b4",
-    "url": "/BlogPostApp/static/js/9.6cba8706.chunk.js"
+    "revision": "8bcc60a1f3e4ea05cade",
+    "url": "/BlogPostApp/static/js/9.70c8b545.chunk.js"
   },
   {
     "revision": "428903df282b47821508",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/BlogPostApp/static/js/19.d6fcc69c.chunk.js"
   },
   {
-    "revision": "f5f79e9e9b0a336257d2ba9342fdd7ff",
+    "revision": "84d94450afa963b8f50e2639b40db77e",
     "url": "/BlogPostApp/index.html"
   }
 ];
